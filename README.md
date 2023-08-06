@@ -1,2 +1,2 @@
 # Titanic - Machine Learning From Disaster
-Includes Exploratory Data Analysis, Visualisation, Feature Engineering and Machine Learning Modelling of given Titanic data by Kaggle.
+This project is built upon data science principles and involves analyzing the Titanic dataset, exploring the data through visualization, extracting meaningful insights from the data, and building a model. The project aims to predict survival using machine learning algorithms. Additionally, it focuses on investigating the relationship between survival and different columns in the dataset.
